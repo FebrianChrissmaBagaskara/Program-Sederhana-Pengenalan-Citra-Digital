@@ -1,3 +1,7 @@
+#Febrian Chrissma Bagaskara
+#F551 20 059
+#kelas B
+
 import numpy
 import matplotlib.pyplot as plt
 from copy import deepcopy
