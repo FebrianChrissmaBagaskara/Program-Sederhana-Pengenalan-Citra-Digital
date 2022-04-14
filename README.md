@@ -23,3 +23,4 @@ ini merupakan sebuah percobaan citra :
 - Morfologi
 
 jika ingin menjalankan program pastikan untuk menyatukan gambar dengan file program
+yang terdapat pada folder "gambar Program".
