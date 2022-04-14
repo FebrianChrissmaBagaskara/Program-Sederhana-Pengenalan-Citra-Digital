@@ -13,3 +13,13 @@ Kelas : B
 
 Teknik Informatika
 Universitas Tadulako
+
+-------------------------------------------------
+
+ini merupakan sebuah percobaan citra :
+- RGB to GrayScale
+- Transformasi Negatif
+- Contrast Streching
+- Morfologi
+
+jika ingin menjalankan program pastikan untuk menyatukan gambar dengan file program
