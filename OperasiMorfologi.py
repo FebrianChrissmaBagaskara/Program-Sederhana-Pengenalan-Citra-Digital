@@ -1,3 +1,7 @@
+#Febrian Chrissma Bagaskara
+#F551 20 059
+#kelas B
+
 import cv2 as cv2
 import numpy as np
 
